@@ -9,6 +9,7 @@ import { ToggleDarkModeButton } from "./ToggleDarkModeButton";
 
 const navLinks: Navlink[] = [
   { label: "Accueil", href: "/" },
+  { label: "AI Chat", href: "/ai_chat" },
   { label: "About us", href: "/about" },
   { label: "Contact", href: "/contact" },
 ];
